@@ -2,11 +2,11 @@
 version: 1
 project:
   id: c5f8e93e-10bc-483b-98fe-8c20d9ed2bba
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
-  github: https://github.com/jupyter-book/mystmd-quickstart
+  title: Open-source Python packages for Magnetotellurics
+  description: Documentation and working examples for open-source Python packages to work with magnetoteluric data.
+  keywords: [magnetotellurics]
+  authors: [Jared Peacock, Karl Kappler, Seogi Kang, Mike Mitchell]
+  github: https://github.com/MTgeophysics
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
