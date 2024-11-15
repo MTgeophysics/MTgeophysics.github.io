@@ -24,12 +24,12 @@ project:
       children:
         - title: mt-metadata
           children:
-            - file: notebooks\mt-metadata\01_metadata_basics.ipynb
-            - file: notebooks\mt-metadata\02_mt_metadata.ipynb
-            - file: notebooks\mt-metadata\03_filters_example.ipynb
-            - file: notebooks\mt-metadata\04_pole_zero_fitting_example_lemi.ipynb
-            - file: notebooks\mt-metadata\05_build_experiment.ipynb
-            - file: notebooks\mt-metadata\06_tf_example.ipynb
+            # - file: notebooks\mt-metadata\01_metadata_basics.ipynb
+            # - file: notebooks\mt-metadata\02_mt_metadata.ipynb
+            # - file: notebooks\mt-metadata\03_filters_example.ipynb
+            # - file: notebooks\mt-metadata\04_pole_zero_fitting_example_lemi.ipynb
+            # - file: notebooks\mt-metadata\05_build_experiment.ipynb
+            # - file: notebooks\mt-metadata\06_tf_example.ipynb
             
         - title: mth5
           children:
