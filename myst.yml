@@ -5,23 +5,7 @@ project:
   title: Open-source Python packages for Magnetotellurics
   description: Documentation and working examples for open-source Python packages to work with magnetoteluric data.
   keywords: [magnetotellurics]
-  authors: 
-    - name: Jared Peacock
-      affiliations: U.S. Geological Survey
-    - name: Karl Kappler
-      affiliations: DIAS Geophysics
-    - name: Seogi Kang
-      affiliations: University of Manitoba, Canada
-    - name: Mike Mitchell
-      affiliations: U.S. Geological Survey
-    - name: Paul Bedrosian
-      affiliations: U.S. Geological Survey
-    - name: Lindsey Heagy
-      affiliations: University of British Columbia, Canada
-    - name: Alison Kirkby
-      affiliations: GNS, New Zealand
-    - name: Justin Sweet
-      affiliations: Earthscope Consortium
+  
   github: https://github.com/MTgeophysics
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
