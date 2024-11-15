@@ -21,15 +21,15 @@ There have been recent developments in [simpeg] that incorporates inversion of M
 ## General Workflow
 With all these packages the full workflow of MT data is covered including data collection, data archiving, transfer function estimation, and modeling [](#mt-workflow).  We have tried to set it up such that [mtpy-v2] is the main controlling package that interfaces with the other packages, but that is still a work in progress.  
 
-:::{figure}
+```{figure} 
 :label: mt-workflow
 :align: center
 
-(mt-workflow)=![Open-source MT Workflow](./images/mt_open_source_workflow.svg)
+![Open-source MT Workflow](./images/mt_open_source_workflow.svg)
 
 General workflow for dealing with MT data.  Time series data can be stored and archived in an MTH5 file which includes metadata. The MTH5 file(s) with time series data can then be used to estimate transfer functions using [aurora].  [aurora] can be controlled from [mtpy-v2] to estimate transfer functions, which are stored the input MTH5 file.  A collection of transfer functions can then be modelled with [simpeg], current controllers from [mtpy-v2] include 1D and 2D, 3D soon.   
 
-:::
+```
 
 
 
