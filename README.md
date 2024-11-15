@@ -1,7 +1,3 @@
-# Magnetotellurics and Open Source Codes With Examples🧙
-
-This book provides documentation and examples of how to use the various open source codes for magnetotelluric (MT) data.
-
 ---
 authors: 
   - name: Jared Peacock
@@ -21,6 +17,12 @@ authors:
   - name: Justin Sweet
     affiliations: Earthscope Consortium
 ---
+
+# Magnetotellurics and Open Source Codes With Examples🧙
+
+This book provides documentation and examples of how to use the various open source codes for magnetotelluric (MT) data.
+
+
 
 **Abstract**
 
