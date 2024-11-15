@@ -2,9 +2,27 @@
 
 This book provides documentation and examples of how to use the various open source codes for magnetotelluric (MT) data.
 
-**Authors:** Jared Peacock<sup>1</sup>, Karl Kappler<sup>2</sup>, Seogi Kang<sup>3</sup>, Mike Mitchell<sup>4</sup>, Alison Kirkby<sup>5</sup> \
-**Affiliations:** <sup>1</sup>U.S. Geological Survey, <sup>2</sup>DIAS Geophysics, <sup>3</sup>Univeristy of Manitoba, Canada, <sup>4</sup>U.S. Geological Survey, <sup>5</sup>GNS, New Zealand\
-**License:** CC BY 4.0
+-------------
+authors: 
+    - name: Jared Peacock
+      affiliations: U.S. Geological Survey
+    - name: Karl Kappler
+      affiliations: DIAS Geophysics
+    - name: Seogi Kang
+      affiliations: University of Manitoba, Canada
+    - name: Mike Mitchell
+      affiliations: U.S. Geological Survey
+    - name: Paul Bedrosian
+      affiliations: U.S. Geological Survey
+    - name: Lindsey Heagy
+      affiliations: University of British Columbia, Canada
+    - name: Alison Kirkby
+      affiliations: GNS, New Zealand
+    - name: Justin Sweet
+      affiliations: Earthscope Consortium
+license: CC BY 4.0
+keywords: magnetotellurics, Python
+--------------
 
 **Abstract**
 
