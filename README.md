@@ -2,7 +2,7 @@
 
 This book provides documentation and examples of how to use the various open source codes for magnetotelluric (MT) data.
 
--------------
+---
 authors: 
     - name: Jared Peacock
       affiliations: U.S. Geological Survey
@@ -22,7 +22,7 @@ authors:
       affiliations: Earthscope Consortium
 license: CC BY 4.0
 keywords: magnetotellurics, Python
---------------
+---
 
 **Abstract**
 
