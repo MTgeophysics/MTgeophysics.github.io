@@ -4,24 +4,22 @@ This book provides documentation and examples of how to use the various open sou
 
 ---
 authors: 
-    - name: Jared Peacock
-      affiliations: U.S. Geological Survey
-    - name: Karl Kappler
-      affiliations: DIAS Geophysics
-    - name: Seogi Kang
-      affiliations: University of Manitoba, Canada
-    - name: Mike Mitchell
-      affiliations: U.S. Geological Survey
-    - name: Paul Bedrosian
-      affiliations: U.S. Geological Survey
-    - name: Lindsey Heagy
-      affiliations: University of British Columbia, Canada
-    - name: Alison Kirkby
-      affiliations: GNS, New Zealand
-    - name: Justin Sweet
-      affiliations: Earthscope Consortium
-license: CC BY 4.0
-keywords: magnetotellurics, Python
+  - name: Jared Peacock
+    affiliations: U.S. Geological Survey
+  - name: Karl Kappler
+    affiliations: DIAS Geophysics
+  - name: Seogi Kang
+    affiliations: University of Manitoba, Canada
+  - name: Mike Mitchell
+    affiliations: U.S. Geological Survey
+  - name: Paul Bedrosian
+    affiliations: U.S. Geological Survey
+  - name: Lindsey Heagy
+    affiliations: University of British Columbia, Canada
+  - name: Alison Kirkby
+    affiliations: GNS, New Zealand
+  - name: Justin Sweet
+    affiliations: Earthscope Consortium
 ---
 
 **Abstract**

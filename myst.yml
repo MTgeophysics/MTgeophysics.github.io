@@ -5,6 +5,8 @@ project:
   title: Open-source Python packages for Magnetotellurics
   description: Documentation and working examples for open-source Python packages to work with magnetoteluric data.
   keywords: [magnetotellurics]
+  authors: MT Team
+  license: CC BY 4.0
   
   github: https://github.com/MTgeophysics
   # To autogenerate a Table of Contents, run "myst init --write-toc"
