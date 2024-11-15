@@ -17,11 +17,11 @@ project:
     - name: Paul Bedrosian
       affiliations: U.S. Geological Survey
     - name: Lindsey Heagy
-      affilliation: University of British Columbia, Canada
+      affilliations: University of British Columbia, Canada
     - name: Alison Kirkby
-      affiliation: GNS, New Zealand
+      affiliations: GNS, New Zealand
     - name: Justin Sweet
-      affiliation: Earthscope Consortium
+      affiliations: Earthscope Consortium
   github: https://github.com/MTgeophysics
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
