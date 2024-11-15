@@ -23,6 +23,7 @@ With all these packages the full workflow of MT data is covered including data c
 
 ```{figure} 
 :label: mt-workflow
+:width: 500px
 :align: center
 
 ![Open-source MT Workflow](./images/mt_open_source_workflow.svg)
