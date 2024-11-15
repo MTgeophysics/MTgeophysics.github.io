@@ -23,10 +23,10 @@ With all these packages the full workflow of MT data is covered including data c
 
 ```{figure} 
 :label: mt-workflow
-:width: 400px
+:width: 500px
 :align: center
 
-![Open-source MT Workflow](./images/mt_open_source_workflow.svg)
+![Open-source MT Workflow](./images/mt_open_source_workflow.png)
 
 General workflow for dealing with MT data.  Time series data can be stored and archived in an MTH5 file which includes metadata. The MTH5 file(s) with time series data can then be used to estimate transfer functions using [aurora].  [aurora] can be controlled from [mtpy-v2] to estimate transfer functions, which are stored the input MTH5 file.  A collection of transfer functions can then be modelled with [simpeg], current controllers from [mtpy-v2] include 1D and 2D, 3D soon.   
 
