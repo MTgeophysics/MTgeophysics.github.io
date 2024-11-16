@@ -1,4 +1,5 @@
 ---
+title: Magnetotelluric Short Course
 authors: 
   - name: Jared Peacock
     affiliations: U.S. Geological Survey
@@ -16,6 +17,8 @@ authors:
     affiliations: GNS, New Zealand
   - name: Justin Sweet
     affiliations: Earthscope Consortium
+
+license: CC BY 4.0
 ---
 
 # Magnetotellurics and Open Source Codes With Examples🧙
