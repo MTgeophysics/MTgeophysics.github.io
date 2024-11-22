@@ -53,7 +53,22 @@ General workflow for dealing with MT data.  Time series data can be stored and a
 
 ```
 
+## Development Notes
+To contribute or modify this package you can clone it from github.
+To get started using MyST follow the official documentation: https://mystmd.org/guide/quickstart.
 
+In summary:
+> git clone git@github.com:MTgeophysics/MTgeophysics.github.io.git
+> 
+> cd MTgeophysics.github.io
+> 
+> conda install mamba
+> 
+> mamba install -c conda-forge mystmd
+> 
+> myst
+
+This should yield a link in a terminal that takes you to a locally hosted version of the book.
 
 
 [2i2c]: https://2i2c.org/
