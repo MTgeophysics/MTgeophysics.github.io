@@ -21,7 +21,7 @@ authors:
 license: CC BY 4.0
 ---
 
-# Magnetotellurics and Open Source Codes With Examples🧙
+# Open Source Codes for Magnetotellurics with Examples🧙
 
 This book provides documentation and examples of how to use the various open source codes for magnetotelluric (MT) data.
 
@@ -33,9 +33,9 @@ The goal of this book is to provide executable examples of how to use open-sourc
 
 ## Background
 
-The initial work on open-souce software was focused on transfer functions (reading/writing, plotting, analysis, working with model input/outputs).  That work resulted in [mtpy], which was a general collection of scripts compiled into a repository with some object oriented code [Krieger \& Peacock, 2014](https://doi.org/10.1016/j.cageo.2014.07.013).  The package was extended mainly by a group at Geoscience Australia into a more modern package including a testing framework and publishing to PyPi [Kirkby _et al._, 2019](https://doi.org/10.21105/joss.01358).  [mtpy] underwent went small updates but due to some unfortunate circumstances became unmaintainable and is now deprecated (**mtpy is deprecated. New version is mtpy-v2**).
+The initial work on open-souce software was focused on transfer functions (reading/writing, plotting, analysis, working with model input/outputs).  That work resulted in [mtpy], which was a general collection of scripts compiled into a repository with some object oriented code [Krieger \& Peacock, 2014](https://doi.org/10.1016/j.cageo.2014.07.013).  The package was extended mainly by a group at Geoscience Australia into a more modern package including a testing framework and publishing to PyPi [Kirkby _et al._, 2019](https://doi.org/10.21105/joss.01358).  [mtpy] under went small updates but became unmaintainable and is now **deprecated**, meaning [mtpy] is no longer supported. The latest version is [mtpy-v2].
 
-Starting around 2020, a working group for metadata and data standards was created, led by IRIS, now Earthscope.  The goal of this group was to develop a standard set of metadata for MT data as well as a data standard.  Out of this came [mt-metadata], a metadata standard, and [mth5], a data format standard based on HDF5 ([Peacock _et al._, 2022](https://doi.org/10.1016/j.cageo.2022.105102)).  Moreover, development of a processing code to estimate MT transfer functions was also supported which resulted in [aurora] a processing code based on Gary Egbert's EMTF code [Kappler _et al._, 2024](https://doi.org/10.21105/joss.06832). 
+Starting around 2020, a working group for metadata and data standards was created, led by IRIS, now Earthscope Consortium.  The goal of this group was to develop a standard set of metadata for MT data as well as a data standard.  Out of this came [mt-metadata], a metadata standard, and [mth5], a data format standard based on HDF5 ([Peacock _et al._, 2022](https://doi.org/10.1016/j.cageo.2022.105102)).  Moreover, development of a processing code to estimate MT transfer functions was also supported which resulted in [aurora] a processing code based on Gary Egbert's EMTF code [Kappler _et al._, 2024](https://doi.org/10.21105/joss.06832). 
 
 There have been recent developments in [simpeg] that incorporates inversion of MT data in 1D, 2D, and 3D.  Originally [simpeg] was designed as a package for learning but in recent years has included modules for parallelization and multi-procssing that allows for larger datasets to be inverted.  
 
@@ -52,9 +52,6 @@ With all these packages the full workflow of MT data is covered including data c
 General workflow for dealing with MT data.  Time series data can be stored and archived in an MTH5 file which includes metadata. The MTH5 file(s) with time series data can then be used to estimate transfer functions using [aurora].  [aurora] can be controlled from [mtpy-v2] to estimate transfer functions, which are stored the input MTH5 file.  A collection of transfer functions can then be modelled with [simpeg], current controllers from [mtpy-v2] include 1D and 2D, 3D soon.   
 
 ```
-
-
-
 
 [2i2c]: https://2i2c.org/
 [curvenote]: https://curvenote.com
