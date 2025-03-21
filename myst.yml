@@ -34,6 +34,11 @@ project:
             - file: ./notebooks/mth5/06a_make_mth5_from_lemi.ipynb
             - file: ./notebooks/mth5/07a_make_mth5_from_phoenix_from_client.ipynb
             - file: ./notebooks/mth5/09_timeseries_to_transfer_function.ipynb
+            - file: ./notebooks/mth5/make_mth5_from_geomag.ipynb
+            - file: ./notebooks/mth5/make_mth5_from_metronix.ipynb
+            - file: ./notebooks/mth5/make_mth5_from_z3d.ipynb
+            - file: ./notebooks/mth5/mth5_in_parallel_one_file_per_station.ipynb
+            - file: ./notebooks/mth5/mth5_in_parallel.ipynb
         - title: aurora
           children:
             - file: ./notebooks/aurora/00_overview.ipynb
