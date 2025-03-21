@@ -16,7 +16,7 @@ project:
     - title: Basic MT
       children: Time series data
       -file: ./notebooks/basics/timeseries_data.ipynb
-    - title: Example Notebooks
+    - title: Example Notebooks from Open Source Codes
       children:
         - title: mt-metadata
           children:
