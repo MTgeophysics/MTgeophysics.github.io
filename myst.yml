@@ -15,7 +15,8 @@ project:
     - file: README.md
     - title: Basic MT
       children:
-      - file: ./notebooks/basics/data_collection.ipynb
+      - file: ./notebooks/basics/data_collection.ipynb    
+      - file: ./notebooks/basics/survey_design_example.ipynb
       - file: ./notebooks/basics/timeseries_data.ipynb
     - title: Example Notebooks from Open Source Codes
       children:
