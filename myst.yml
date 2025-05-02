@@ -16,6 +16,7 @@ project:
     - title: Basic MT
       children:
       - file: ./notebooks/basics/intro_to_em.ipynb
+      - file: ./notebooks/basics/physical_understanding.ipynb
       - file: ./notebooks/basics/data_collection.ipynb    
       - file: ./notebooks/basics/survey_design_example.ipynb
       - file: ./notebooks/basics/timeseries_data.ipynb
